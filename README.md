@@ -1,4 +1,6 @@
 # Tranquil
+![image](https://github.com/rickashewilliams19/Tranquil/assets/88403017/332bd2a2-666b-4af4-836e-49ada7cb9d72)
+
 The Smart Supermarket Application, Tranquil, has been developed in response to the ongoing challenges posed by the COVID-19 pandemic, with a keen focus on mitigating health risks through social distancing measures while concurrently advancing the shopping experience. As society increasingly embraces technology, its pivotal role in shaping commerce and business sectors has become undeniable, propelling us towards more efficient and secure operations.
 
 Tranquil, an Android-based mobile application meticulously crafted for supermarket customers, endeavors to achieve the following key objectives:
