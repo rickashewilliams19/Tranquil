@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14385844450",
+    "project_id": "final-tranquil-project",
+    "storage_bucket": "final-tranquil-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14385844450:android:59cf3651608b3cf2e00ebb",
+        "android_client_info": {
+          "package_name": "com.example.finaltranquilproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14385844450-ac18pt6t1ao9932jnbt5puhovmd8sv3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm3GsgTxMLwGw6y-IUxP7I9wY_S99J1GM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14385844450-ac18pt6t1ao9932jnbt5puhovmd8sv3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
