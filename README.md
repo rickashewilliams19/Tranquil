@@ -1,16 +1,20 @@
 # Tranquil
+
 ![image](https://github.com/rickashewilliams19/Tranquil/assets/88403017/332bd2a2-666b-4af4-836e-49ada7cb9d72)
 
 The Smart Supermarket Application, Tranquil, has been developed in response to the ongoing challenges posed by the COVID-19 pandemic, with a keen focus on mitigating health risks through social distancing measures while concurrently advancing the shopping experience. As society increasingly embraces technology, its pivotal role in shaping commerce and business sectors has become undeniable, propelling us towards more efficient and secure operations.
 
 ![image](https://github.com/rickashewilliams19/Tranquil/assets/88403017/f648bff8-8f81-42c3-85e3-c0a20f015c58)
 
-
 Tranquil, an Android-based mobile application meticulously crafted for supermarket customers, endeavors to achieve the following key objectives:
 
 Streamlined Checkout Experience: In response to the imperative of social distancing, Tranquil introduces a Scan and Pay mechanism, enabling customers to effortlessly scan product barcodes via their Android smartphones. This innovative approach eradicates the need for customers to endure protracted queues at supermarket cash counters.
 
+![image](https://github.com/rickashewilliams19/Tranquil/assets/88403017/ebd4e53d-5b85-4d16-9495-18662dc06d84)
+
 Enhanced Payment Convenience: The application empowers customers with the freedom to make payments through a diverse array of online payment methods, effectively reducing reliance on physical currency and conventional payment cards.
+
+![image](https://github.com/rickashewilliams19/Tranquil/assets/88403017/f6b390b9-c169-4f3d-9932-cfd52156c87f)
 
 Superior Shopping Experience: Tranquil's hallmark feature is its user-friendly interface, meticulously designed to ensure accessibility for individuals of all age groups. This design philosophy simplifies navigation within the application, facilitating efficient and expedited shopping.
 
